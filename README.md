@@ -14,7 +14,7 @@ Application To Find Your Favorite Gifs
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/AdrianLopezGue/Easy-Exchange.git
+https://github.com/ciclosyt/GifsApp
 ```
 
 **Step 2:**
