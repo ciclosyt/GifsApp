@@ -1,27 +1,40 @@
-# GifsApp
+# 🔄 GifsApp 🔄
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+Application To Find Your Favorite Gifs
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+### How to Use 
 
-## Running unit tests
+**Step 1:**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Download or clone this repo by using the link below:
 
-## Running end-to-end tests
+```
+https://github.com/AdrianLopezGue/Easy-Exchange.git
+```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+**Step 2:**
 
-## Further help
+Go to project root and execute the following command in console to get the required dependencies: 
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+``` 
+npm install
+```
+
+
+**Step 3:**
+
+Run Your Server:
+
+```
+ng serve -o
+```
+
+**Step 4:**
+
+Enjoy!
+
